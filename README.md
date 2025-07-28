@@ -7,7 +7,7 @@ Check out the live demo: []
 
 ## 📸 Screenshots
 
-![Screenshots](./readmeSS/Quiz-App-Screenshot-1.png)
+![Screenshots](.Quiz-App/readmeSS/Quiz-App-Screenshot-1.png)
 ![Screenshots](./readmeSS/Quiz-App-Screenshot-2.png)
 ![Screenshots](./readmeSS/Quiz-App-Screenshot-3.png)
 ![Screenshots](./readmeSS/Quiz-App-Screenshot-4.png)

@@ -50,41 +50,44 @@ Check out the live demo: []
 Quiz-App/
 ├── backend/
 │   ├── node_modules/
+|   ├── .gitignore
 │   ├── package-lock.json
 │   ├── package.json
 │   ├── questions.json
 │   └── server.js
 └── frontend/
-    ├── node_modules/
-    ├── public/
-    ├── src/
-    │   ├── assets/
-    │   │   ├── headerImage.png
-    │   │   ├── logo.png
-    │   │   └── quiz.png
-    │   ├── components/
-    │   │   ├── Footer.jsx
-    │   │   ├── Header.jsx
-    │   │   ├── Modal.jsx
-    │   │   ├── NavBar.jsx
-    │   │   └── steps.jsx
-    │   ├── context/
-    │   │   └── QuizContext.jsx
-    │   ├── pages/
-    │   │   ├── Landing.jsx
-    │   │   └── Quiz.jsx
-    │   ├── App.jsx
-    │   ├── index.css
-    │   └── main.jsx
-    ├── .gitignore
-    ├── eslint.config.js
-    ├── index.html
-    ├── package-lock.json
-    ├── package.json
-    ├── postcss.config.js
-    ├── README.md          
-    ├── tailwind.config.js
-    └── vite.config.js
+|    ├── node_modules/
+|    ├── public/
+|    ├── src/
+|    │   ├── assets/
+|    │   │   ├── headerImage.png
+|    │   │   ├── logo.png
+|    │   │   └── quiz.png
+|    │   ├── components/
+|    │   │   ├── Footer.jsx
+|    │   │   ├── Header.jsx
+|    │   │   ├── Modal.jsx
+|    │   │   ├── NavBar.jsx
+|    │   │   └── steps.jsx
+|    │   ├── context/
+|    │   │   └── QuizContext.jsx
+|    │   ├── pages/
+|    │   │   ├── Landing.jsx
+|    │   │   └── Quiz.jsx
+|    │   ├── App.jsx
+|    │   ├── index.css
+|    │   └── main.jsx
+|    ├── .gitignore
+|    ├── eslint.config.js
+|    ├── index.html
+|    ├── package-lock.json
+|    ├── package.json
+|    ├── postcss.config.js
+|    ├── README.md          
+|    ├── tailwind.config.js
+|    └── vite.config.js
+└──.gitignore
+└── README.md 
 ```
 
 ## 🚀 Getting Started

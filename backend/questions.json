@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What does HTML stand for?",
+    "options": ["HyperText Markup Language", "HighText Machine Language", "HyperText Markdown Language", "Home Tool Markup Language"],
+    "answer": "HyperText Markup Language"
+  },
+  {
+    "id": 2,
+    "question": "Which CSS property controls the text size?",
+    "options": ["font-style", "text-size", "font-size", "text-style"],
+    "answer": "font-size"
+  },
+  {
+    "id": 3,
+    "question": "Which language is used for styling web pages?",
+    "options": ["HTML", "JQuery", "CSS", "XML"],
+    "answer": "CSS"
+  },
+  {
+    "id": 4,
+    "question": "Which HTML tag is used to define an internal style sheet?",
+    "options": ["<css>", "<script>", "<style>", "<link>"],
+    "answer": "<style>"
+  },
+  {
+    "id": 5,
+    "question": "Which is not a JavaScript framework?",
+    "options": ["React", "Angular", "Vue", "Cassandra"],
+    "answer": "Cassandra"
+  },
+  {
+    "id": 6,
+    "question": "Which symbol is used for comments in JavaScript?",
+    "options": ["<!-- comment -->", "// comment", "# comment", "** comment **"],
+    "answer": "// comment"
+  },
+  {
+    "id": 7,
+    "question": "What does API stand for?",
+    "options": ["Application Programming Interface", "Advanced Programming Integration", "Application Process Integration", "Applied Programming Interface"],
+    "answer": "Application Programming Interface"
+  },
+  {
+    "id": 8,
+    "question": "Which HTTP method is used to retrieve data?",
+    "options": ["GET", "POST", "PUT", "DELETE"],
+    "answer": "GET"
+  },
+  {
+    "id": 9,
+    "question": "Which HTML element is used to insert a line break?",
+    "options": ["<break>", "<br>", "<lb>", "<newline>"],
+    "answer": "<br>"
+  },
+  {
+    "id": 10,
+    "question": "What is the correct syntax to link an external CSS file?",
+    "options": ["<link rel='stylesheet' href='style.css'>", "<style src='style.css'>", "<css src='style.css'>", "<stylesheet>style.css</stylesheet>"],
+    "answer": "<link rel='stylesheet' href='style.css'>"
+  }
+]

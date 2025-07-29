@@ -3,7 +3,11 @@
 A modern, interactive quiz application built with React, JavaScript and Express.js. Test your knowledge with timed questions and get instant feedback!
 
 ## 🔗 Live Demo
-Check out the live demo: []
+Check out the live demo: [https://quiz-app-mg.vercel.app/]
+
+**Deployment:**
+- 🎨 **Frontend**: Deployed on [Vercel](https://quiz-app-mg.vercel.app/)
+- 🚀 **Backend**: Deployed on [Render](https://quiz-app-r2ej.onrender.com)
 
 ## 📸 Screenshots
 

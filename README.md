@@ -8,6 +8,7 @@ Check out the live demo: [https://quiz-app-mg.vercel.app/]
 **Deployment:**
 - 🎨 **Frontend**: Deployed on [Vercel](https://vercel.com)
 - 🚀 **Backend**: Deployed on [Render](https://render.com)
+- 📊 **Monitoring**: Uptime monitoring with [UptimeRobot](https://uptimerobot.com)
 
 ## 📸 Screenshots
 

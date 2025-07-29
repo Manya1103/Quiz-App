@@ -24,9 +24,8 @@ useEffect(() =>{
 }, [isTimeUp, handleNextQuestion]);
 
 if (!questions || questions.length === 0) {
-  return <p className='text-center text-xl'>Loading...</p>
+  return <p className='text-center text-xl'>Loading...Please wait or try again later.</p>
  }
-
  if (isQuizCompleted) {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen p-6 text-white">

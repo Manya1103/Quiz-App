@@ -8,7 +8,7 @@ dotenv.config();
 const app = express();
 const PORT = process.env.PORT || 5000;  
 app.use(cors({
-    origin: ["http://localhost:5000","https://quiz-app-liart-five-54.vercel.app/"]
+    origin: ["http://localhost:5000","https://quiz-app-mg.vercel.app/"]
 }));
 app.use(express.json());
 

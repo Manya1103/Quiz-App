@@ -6,8 +6,8 @@ A modern, interactive quiz application built with React, JavaScript and Express.
 Check out the live demo: [https://quiz-app-mg.vercel.app/]
 
 **Deployment:**
-- 🎨 **Frontend**: Deployed on [Vercel](https://quiz-app-mg.vercel.app/)
-- 🚀 **Backend**: Deployed on [Render](https://quiz-app-r2ej.onrender.com)
+- 🎨 **Frontend**: Deployed on [Vercel](https://vercel.com)
+- 🚀 **Backend**: Deployed on [Render](https://render.com)
 
 ## 📸 Screenshots
 

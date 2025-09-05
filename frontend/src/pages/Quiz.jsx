@@ -24,7 +24,7 @@ useEffect(() =>{
 }, [isTimeUp, handleNextQuestion]);
 
 if (!questions || questions.length === 0) {
-  return <p className='text-center text-xl'>Loading...Please wait or try again later.</p>
+  return <p className='text-center text-xl mt-5'>Loading...Please wait or try again later.</p>
  }
  if (isQuizCompleted) {
   return (

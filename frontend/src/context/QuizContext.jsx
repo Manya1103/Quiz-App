@@ -14,7 +14,7 @@ const QuizContextProvider = ({ children }) => {
     const [isQuizCompleted, setIsQuizCompleted] = useState(false);
     const [userAnswers, setUserAnswers] = useState([]);
 
-    const backendUrl = import.meta.env.VITE_API_URL || "http://localhost:5000";
+    const backendUrl = "https://quiz-app-production-dd58.up.railway.app";
 
     // Function to fetch questions from the backend
     const fetchQuestions = async () => {
